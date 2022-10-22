@@ -43,7 +43,7 @@ for arg in sys.argv :
 lapack_info = get_info('lapack_opt',1)
 # lapack_info = get_info('',1)
 # lapack_info = False
-print lapack_info
+print (lapack_info)
 # quit()
 
 
